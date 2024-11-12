@@ -7,7 +7,7 @@ return num++;
 }
 
 
-int main{
+int main(){
 std::cout<< seq() << std::endl;
 std::cout<< seq() << std::endl;
 
