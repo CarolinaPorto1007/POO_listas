@@ -33,5 +33,6 @@ Bruxo::Bruxo(std::string nome, std::string casa, std::string feitico){
         return m_nome+ " " + m_casa+" "+ m_feitico;
     }
     
+    
 
     
